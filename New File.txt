@@ -4,4 +4,8 @@ testing
 
 Once again added new line
 
+<<<<<<< HEAD
 Merging with the master
+=======
+Merging example
+>>>>>>> bc05d3b1dbf7a63e683e994848ac0e22e15e206c
