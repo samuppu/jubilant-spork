@@ -3,3 +3,5 @@ Testing new file
 testing
 
 Once again added new line
+
+Merging example
